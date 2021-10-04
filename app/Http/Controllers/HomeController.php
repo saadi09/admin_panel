@@ -112,4 +112,6 @@ class HomeController extends Controller
 
         return view('admin.userlogs.index',compact('uesrs'));
     }
+
+
 }

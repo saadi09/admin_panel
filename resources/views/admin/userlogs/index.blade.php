@@ -94,7 +94,7 @@
                                                     <th>User Name</th>
                                                     <th>URL</th>
                                                     <th>IP Address</th>
-                                                    <th width="100px">Action</th>
+                                                    <th style="width:15%">Action</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
